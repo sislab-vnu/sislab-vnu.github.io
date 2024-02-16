@@ -1,0 +1,15 @@
+main:
+  - title: "About us"
+    url: /about/
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "Pages"
+  #   url: /page-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
+  - title: "VNU-ITI's website"
+    url: https://iti.vnu.edu.vn
